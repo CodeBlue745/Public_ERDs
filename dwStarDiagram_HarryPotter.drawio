@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T01:52:16.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="eWCixGEldOCjNzQ1r9CK" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T05:38:02.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="xvlrytFVeKElN1M5otM5" version="17.4.3" type="github">
   <diagram id="4oQchcT6IMdl1H_K9BaI" name="Page-1">
-    <mxGraphModel dx="1662" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -649,8 +649,8 @@
             <mxPoint x="800" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X8YW4uTeobU349DHKaid-341" value="&lt;font style=&quot;font-size: 12px&quot;&gt;by: Stephen Robbins, Justin Allen, Isaac Barlow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="345" y="100" width="270" height="20" as="geometry" />
+        <mxCell id="X8YW4uTeobU349DHKaid-341" value="by: Stephen Robbins, Jason Mankel, Isaac Barlow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="340" y="100" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-343" value="&lt;span&gt;Ask Isaac to look at the agregate functions: ClassCount,&lt;/span&gt;&lt;br&gt;&lt;span&gt;StudentCount_perHouse,&lt;/span&gt;&lt;br&gt;&lt;span&gt;StudentCount_perLeader, MostCommonSchoolLevel_perSubject,&lt;/span&gt;&lt;br&gt;&lt;span&gt;AVGLength&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1170" y="650" width="230" height="200" as="geometry" />
