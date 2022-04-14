@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T01:44:01.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="aY8ggPSc4sKAORRTbK3t" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T01:46:10.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="awR2g5nOJpNB3Qlvf31c" version="17.4.3" type="github">
   <diagram id="4oQchcT6IMdl1H_K9BaI" name="Page-1">
-    <mxGraphModel dx="946" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1324" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X8YW4uTeobU349DHKaid-205" value="dwStudentsbyHouse" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="60" width="240" height="300" as="geometry" />
+          <mxGeometry x="80" y="240" width="240" height="300" as="geometry" />
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-206" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="X8YW4uTeobU349DHKaid-205" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-230" value="dwStudentsbyClasses" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="340" width="300" height="240" as="geometry" />
+          <mxGeometry x="760" y="520" width="300" height="240" as="geometry" />
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-231" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="X8YW4uTeobU349DHKaid-230" vertex="1">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry x="350" y="40" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-275" value="dwStudentsbyOwl" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="200" height="150" as="geometry" />
+          <mxGeometry x="80" y="640" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-276" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="X8YW4uTeobU349DHKaid-275" vertex="1">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -277,7 +277,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-287" value="dwStudentsbyWand" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="560" width="210" height="210" as="geometry" />
+          <mxGeometry x="760" y="240" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-288" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="X8YW4uTeobU349DHKaid-287" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -361,7 +361,7 @@
           <mxGeometry x="360" y="70" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-308" value="dwStudentOnboarding" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="260" width="280" height="420" as="geometry" />
+          <mxGeometry x="400" y="240" width="280" height="420" as="geometry" />
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-309" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="X8YW4uTeobU349DHKaid-308" vertex="1">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -538,7 +538,7 @@
         <mxCell id="X8YW4uTeobU349DHKaid-343" value="&lt;span&gt;Ask Isaac to look at the agregate functions: ClassCount,&lt;/span&gt;&lt;br&gt;&lt;span&gt;StudentCount_perHouse,&lt;/span&gt;&lt;br&gt;&lt;span&gt;StudentCount_perLeader, MostCommonSchoolLevel_perSubject,&lt;/span&gt;&lt;br&gt;&lt;span&gt;AVGLength&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="375" y="700" width="230" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jT1xhGUxBXpZ2YUOMPn7-16" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8YW4uTeobU349DHKaid-324" target="X8YW4uTeobU349DHKaid-288">
+        <mxCell id="jT1xhGUxBXpZ2YUOMPn7-16" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8YW4uTeobU349DHKaid-324" target="X8YW4uTeobU349DHKaid-288">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="250" y="630" as="sourcePoint" />
             <mxPoint x="350" y="530" as="targetPoint" />
