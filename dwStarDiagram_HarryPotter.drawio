@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T01:51:14.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="9NeXRDzCqrFBpNeJjRVJ" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T01:52:06.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="mEFWtjnTZtiHLuHu5ScI" version="17.4.3" type="github">
   <diagram id="4oQchcT6IMdl1H_K9BaI" name="Page-1">
     <mxGraphModel dx="946" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -571,6 +571,9 @@
             <mxPoint x="790" y="420" as="sourcePoint" />
             <mxPoint x="660" y="767.01" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jT1xhGUxBXpZ2YUOMPn7-46" value="Aggregates: SchoolLevelCount_perSubject, ClassCount, StudentCount" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="260" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
