@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T01:51:03.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="NiEJt9oa9wQ9-KZQjVYI" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T01:51:14.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="9NeXRDzCqrFBpNeJjRVJ" version="17.4.3" type="github">
   <diagram id="4oQchcT6IMdl1H_K9BaI" name="Page-1">
     <mxGraphModel dx="946" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -547,9 +547,6 @@
         </mxCell>
         <mxCell id="X8YW4uTeobU349DHKaid-341" value="by: Stephen Robbins, Jason Mankel, Isaac Barlow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="280" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X8YW4uTeobU349DHKaid-343" value="&lt;span&gt;Ask Isaac to look at the agregate functions: ClassCount,&lt;/span&gt;&lt;br&gt;&lt;span&gt;StudentCount_perHouse,&lt;/span&gt;&lt;br&gt;&lt;span&gt;StudentCount_perLeader, MostCommonSchoolLevel_perSubject,&lt;/span&gt;&lt;br&gt;&lt;span&gt;AVGLength&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="375" y="700" width="230" height="200" as="geometry" />
         </mxCell>
         <mxCell id="jT1xhGUxBXpZ2YUOMPn7-16" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8YW4uTeobU349DHKaid-324" target="X8YW4uTeobU349DHKaid-288">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
