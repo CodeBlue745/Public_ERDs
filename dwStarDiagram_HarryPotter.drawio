@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:39:04.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="NoYD9_iPCUod60tvIQVJ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T07:05:51.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="UD4uaYZGBWylwhaHFhgw" version="17.4.5" type="github">
   <diagram id="4oQchcT6IMdl1H_K9BaI" name="Page-1">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1583" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fI9yiM7O3tnDA2zwyhtc-10" value="studentHouseCount CHAR(20)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="fI9yiM7O3tnDA2zwyhtc-8" vertex="1">
+        <mxCell id="fI9yiM7O3tnDA2zwyhtc-10" value="StudentCount_perHouse CHAR(20)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="fI9yiM7O3tnDA2zwyhtc-8" vertex="1">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
